@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=sted1994)](https://github.com/sted1994/github-readme-stats)
 <!--
 **sted1994/sted1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
