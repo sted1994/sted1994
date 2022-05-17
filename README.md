@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=sted1994)](https://github.com/sted1994/github-readme-stats&theme=THEME_NAME)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sted1994&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sted1994&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sted1994)](https://github.com/anuraghazra/github-readme-stats)
 <!--
