@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+#### Welcome to my collection of projects. These projects are a relection of my journey so far as I continue to develope my knowledge as a developer. Please feel free to browse my past projects and reach out with any recomendations. Enjoy! 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sted1994&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sted1994)](https://github.com/anuraghazra/github-readme-stats)
