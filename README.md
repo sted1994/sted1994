@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there!! 👋 Welcome to my page
 
-#### Welcome to my collection of projects. These projects are a collection of my journey so far as I continue to develope my knowledge as a developer. Please feel free to browse my past projects and reach out with any recomendations. Enjoy! 
+#### Please take your time to browse through my repositories to see what I have been working on lately. These projects represent of my journey so far as I continue to develope my knowledge as a developer. Please feel free to reach out with any recommendations or ideas you would like to colaborate on. Enjoy! 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sted1994&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sted1994)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,12 +10,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: Currently seeking employment in entry level positions
+- 🌱 I’m currently learning: React with Redux
+- 👯 I’m looking to collaborate on: Projects that are aimed provide positive impact on underrepresented groups
+- 🤔 I’m looking for help with: Networking in the industry
+- 💬 Ask me about: My journey so far as I set out to make the transition from small business owner to software engineer
+- 📫 How to reach me: Stephen.Tedesco2022@gmail.com
+- 😄 Pronouns: (they/them)
 -->
