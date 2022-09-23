@@ -1,6 +1,6 @@
 ### Hi there!! 👋 Welcome to my page
 
-#### Please take your time to browse through my repositories to see what I have been working on lately. These projects represent of my journey so far as I continue to develope my knowledge as a developer. Please feel free to reach out with any recommendations or ideas you would like to colaborate on. Enjoy! 
+#### Please take your time to browse through my repositories to see what I have been working on lately. These projects represent my journey so far as I continue to develope my knowledge and skills as a developer. Please feel free to reach out with any recommendations or ideas you would like to colaborate on. Enjoy! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sted1994&show_icons=true&theme=radical)
 <br>
